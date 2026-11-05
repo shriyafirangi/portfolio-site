@@ -92,3 +92,19 @@ body{
 .blue{
 	color:midnightblue;
 }
+
+.pro{
+	cursor: url("images/project.png"), auto;
+}
+
+.amzn{
+	cursor: url("images/logistics.png"), auto;
+}
+
+.jioo{
+	cursor: url("images/musical-note.png"), auto;
+}
+
+.ytube{
+	cursor: url("images/youtube.png"), auto;
+}

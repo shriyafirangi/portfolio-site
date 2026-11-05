@@ -298,3 +298,22 @@ body{
 	border:1px solid #3b6cf4;
 	border-radius:40px;
 }
+
+.cross{cursor:crosshair}
+.pointer{cursor:pointer}
+.progress{cursor:progress}
+.grab{cursor:grab}
+.scroll{cursor:all-scroll}
+.v-text{cursor:vertical-text}
+
+.cup{
+	cursor: url("images/trophy.png"), auto;
+}
+
+.gitt{
+	cursor: url("images/merge.png"), auto;
+}
+
+.hand{
+	cursor: url("images/hand.png"), auto;
+}
