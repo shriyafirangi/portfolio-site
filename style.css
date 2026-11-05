@@ -1,0 +1,300 @@
+body{
+	margin:0;
+	background-color:;
+}
+
+.roboto{
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+.merry{
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+	font-size:15px;
+}
+
+.changa-one-regular {
+  font-family: "Changa One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.changa-one-regular-italic {
+  font-family: "Changa One", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.merienda {
+  font-family: "Merienda", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.agbalumo {
+  font-family: "Agbalumo", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.zero{
+	margin:0;
+}
+
+.right{
+	float:right;
+}
+
+.left{
+	float:left;
+}
+
+.bold-text{
+	font-weight:bold;
+}
+
+.light-text{
+	font-size:12px;
+}
+
+.center{
+	text-align:center;
+}
+
+.nav-text{
+	font-size:20px;
+	color:white;
+}
+
+
+.nav{
+	height:50px;
+	width:100%;
+	/* background-color:palevioletred; */
+	background-color:#c796e0;
+	font-size:18px;
+}
+
+.nav-margin{
+	margin-left:20px;
+}
+
+.talk{
+	height:35px;
+	width:100px;
+	background-color:grey;
+}
+
+.talk1{
+	height:31px;
+	width:85px;
+	background-color:black;
+}
+
+.talk2{
+	height:35px;
+	width:120px;
+	background-color:#3b6cf4;
+}
+
+.profile{
+	height:100px;
+	width:100px;
+	background-color:teal;
+}
+
+.word{
+	width:fit-content;
+}
+
+.align{
+	display:block;
+	margin:0 auto;
+}
+
+.curve{
+	border-radius:5px;
+}
+
+.curve2{
+	border-radius:10px;
+}
+
+.gap{
+	margin-top:5px;
+}
+
+.gap2{
+	margin-top:18px;
+}
+
+.gap3{
+	margin-top:10px;
+}
+
+.gap4{
+	margin-top:30px;
+}
+
+.sec{
+	height:300px;
+	width:380px;
+	background-color:white;
+	margin:8px;
+}
+
+.sec2{
+	height:350px;
+	width:100%;
+	background-color:ghostwhite;
+}
+
+.sec3{
+	height:500px;
+	width:100%;
+	background-color:ghostwhite;
+	/* margin-top:15px; */
+}
+
+.title-text{
+	font-size:35px;
+}
+
+.grey{
+	/* color:slategrey; */
+	color:dimgrey;
+}
+
+.outline{
+	border:2px solid grey;
+}
+
+.box2{
+	height:100px;
+	width:280px;
+	background-color:white;
+}
+
+.box3{
+	height:23px;
+	width:50px;
+	font-size:10px;
+}
+
+.box4{
+	height:30px;
+	width:100px;
+}
+
+					/* <!-- <div class="profile round outline" style="background: linear-gradient(45deg, #0f2027 0%, #203a43 50%, #2c5364 100%); border:5px solid sandybrown"> --> */
+
+
+.caption-box{
+	height:100px;
+	width:350px;
+}
+
+.anchor{
+	text-decoration:none;
+	color:white;
+}
+
+.icon{
+	color:white;
+}
+
+.foot{
+	font-size:45px
+	/* height:50px; */
+	/* width:450px; */
+	/* background-color:lime; */
+}
+
+.foot-text{
+	font-size:14px
+}
+
+.achieve{
+	height:150px;
+	width:1000px;
+	border:2px dashed silver;
+}
+
+.github{
+	height:120px;
+	width:92%;
+	border:1.5px solid silver;
+	border-radius:30px;
+}
+
+.github2{
+	height:140px;
+	width:280px;
+	border:1px solid #3b6cf4;
+	border-radius:15px;
+}
+
+.blue-border{
+	border:1px solid #3b6cf4;
+}
+
+.block{
+	display:inline-block
+}
+
+.git-text{
+	color:#2952e3;
+}
+
+.git-margin{
+	margin-left:15px
+}
+
+.git-margin2{
+	margin-left:10px
+}
+
+.git-icon{
+	color:crimson;
+	font-size:10px;
+}
+
+.git-font{
+	font-family:sans-serif;
+}
+
+.git-black{
+	color:black;
+}
+
+.round{
+	border-radius:50%;
+}
+
+.git-view{
+	height:25px;
+	width:140px;
+	margin-right:25px;
+	border:1px solid silver;
+}
+
+.preview{
+	height:22px;
+	width:85px;
+	background-color:#bfdbfe;
+	margin-right:14px;
+	color:blue;
+	font-size:10px;
+	border:1px solid #3b6cf4;
+	border-radius:40px;
+}
